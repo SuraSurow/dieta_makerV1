@@ -1,0 +1,85 @@
+1brokuly
+1brukselka
+1buraki
+1cebula
+1cukinia
+1grzyby
+1jarmuz
+1kalafior
+1marchew
+1papryka
+1pomidory
+1rukola
+1rzodkiewki
+1szparagi
+1szpinak
+1zielona fasola
+2ananasy
+2banany
+2cytryny
+2czeresnie
+2granaty
+2grejpfruty
+2gruszki
+2jablka
+2jagody
+2kiwi
+2limonki
+2mango
+2pomarancze
+2winogrona
+3ciecierzyca
+3jaja
+3krewetki
+3kurczak
+3nasiona konopi
+3ryby
+3soja
+3swieza piers z indyka
+3tofu
+3wolowina
+4bataty
+4brazowy ryz
+4chleb pelnoziarnisty
+4dynia
+4fasola
+4jeczmien
+4kasza gryczana
+4komosa ryzowa
+4nasiona chia
+4platki owsiane
+4soczewica
+4ziemniaki
+5awokado
+5maslo migdalowe
+5maslo orzechowe
+5nasiona
+5olej kokosowy
+5olej lniany
+5olej z awokado
+5oliwa z oliwek
+5oliwki
+5orzechy
+5pesto
+5siemie lniane
+5tahini
+6jogurt grecki
+6kefir
+6kozi ser
+6miod
+6mleko odtluszczone
+6ser zolty
+6twarog
+7chrzan
+7ksylitol
+7musztarda kamionkowa
+7ocet balsamiczny
+7ocet jablkowy
+7platki drozdzowe
+7sos chili
+7stewia
+8herbata imbirowa
+8kawa zbozowa
+8nieslodzona herbata mrozona
+8woda gazowana
+8zielona herbata

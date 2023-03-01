@@ -1,0 +1,3 @@
+C:/PROGRAM-DIETA-MAKER/cmake-build-debug/CMakeFiles/PROGRAM_DIETA_MAKER.dir
+C:/PROGRAM-DIETA-MAKER/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/PROGRAM-DIETA-MAKER/cmake-build-debug/CMakeFiles/rebuild_cache.dir

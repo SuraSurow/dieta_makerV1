@@ -1,0 +1,25 @@
+Hello, this is tutorial How open app
+
+1. take all file and copy to folder
+
+2. open "cmake-build-debug"
+
+3. click "PROGRAM_DIETA_MAKER.exe"
+
+4. this is console app, you must write index and apply "enter"
+
+5. Enjoy :D
+
+
+Tutaj pokaże w jakis sposób użytkować z Aplikacji
+
+0.Wyjscie
+1.wybór <1>
+2.wybór <2>
+3.wybór <3>
+
+
+Wpisz index wyboru:
+
+jest to schemat programu, nalezy wpiszać numer wyboru (np.1)
+i zatwierdzić ENTER
